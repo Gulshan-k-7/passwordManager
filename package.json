@@ -11,8 +11,17 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
+<<<<<<< HEAD
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
+=======
+    "cores": "^0.8.5",
+    "cors": "^2.8.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-toastify": "^11.0.5",
+    "uuid": "^13.0.0"
+>>>>>>> 9db2821 (final call)
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",

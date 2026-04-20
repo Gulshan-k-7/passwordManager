@@ -6,4 +6,11 @@
     .mycontainer{
         @apply container mx-auto px-10 py-5 ;
     }
+<<<<<<< HEAD
+=======
+    html, body, #root {
+    height: 100%;
+    margin: 0;
+}
+>>>>>>> 9db2821 (final call)
 }
